@@ -2,8 +2,6 @@
 
 ![GuardianNews](GuardianNews.png)
 
-News App
-
 # Layout
 
 CRITERIA
